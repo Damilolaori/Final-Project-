@@ -1,3 +1,3 @@
 # Final-Project-
-Hybrid Data Science Approach To Technical Analysis
-This project aims at improving prediction accuracy and developing optimized investment portfolios through the integration of traditional indicators such as Moving Averages, MACD, and Bollinger Bands with advanced machine learning models like LSTM, GRU, or CNN-LSTM.
+A Data Science Approach To Technical Analysis
+This project aims to create a data science methodology that combines technical analysis indicators with deep learning models to enhance the accuracy of stock price predictions. The aim is to capitalize on the benefits of both conventional technical analysis and contemporary data science methods to establish a stronger and more reliable predictive system.
